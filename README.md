@@ -1,18 +1,18 @@
-<h1 align="center">Hola 👋, soy Juan Cortes!</h1>
-<h3 align="center">Desarrollador web apasionado por crear soluciones escalables y modernas</h3>
+<h1 align="center">Hello 👋, I'm Juan Cortes!</h1>
+<h3 align="center">Web developer passionate about creating scalable and modern solutions</h3>
 
 ---
 
-### 🧠 Sobre mí
-
-- 💻 Me encanta trabajar con tecnologías web, tanto en el **frontend** como en el **backend**  
-- 🚀 Siempre estoy aprendiendo y explorando nuevas herramientas para construir mejores productos  
-- 🌐 Me especializo en crear aplicaciones robustas y responsivas  
-- 🔍 Dispuesto a trabajar en equipo y compartir ideas con nuevas mentes
+### 🧠 About Me
+- ⚛️ Passionate about frontend development and creating modern, intuitive interfaces 
+- 💻 I love working with web technologies, both on the **frontend** and the **backend**  
+- 🚀 I am always learning and exploring new tools to build better products  
+- 🌐 I specialize in creating robust and responsive applications  
+- 🔍 Willing to work as part of a team and share ideas with new minds
 
 ---
 
-### 🚀 Tecnologías y herramientas que manejo
+### 🚀 Technologies and Tools I Use
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
@@ -29,17 +29,17 @@
 
 ---
 
-### 📦 Tecnologías específicas
+### 📦 Specific Technologies
 
 - ⚙️ **Backend:** Django | Strapi | REST APIs  
 - 🎨 **Frontend:** React | Bootstrap | HTML5 | CSS3  
-- 🗄️ **Base de datos:** MySQL | SQLite  
+- 🗄️ **Database:** MySQL | SQLite  
 - 🐳 **DevOps:** Docker | DockerHub  
-- 🛠️ **Otros:** Git | GitHub | Typescript
+- 🛠️ **Others:** Git | GitHub | Typescript
 
 ---
 
-### 📫 Cómo contactarme
+### 📫 How to Reach Me
 
 - 📧 Email: [juandicortes07@gmail.com]  
 - 🐙 GitHub: [github.com/JuanC0B](https://github.com/JuanC0B)
