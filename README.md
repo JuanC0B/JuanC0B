@@ -39,18 +39,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanC0B&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanC0B&layout=compact&theme=radical" />
-</div>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JuanC0B&theme=react-dark&hide_border=true)
-
-
----
-
 ### 📫 Cómo contactarme
 
 - 📧 Email: [juandicortes07@gmail.com]  
